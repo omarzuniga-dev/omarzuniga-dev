@@ -3,7 +3,7 @@
 <div align="center">
 
 # Omar Zúniga
-### Backend Developer · C# .NET · Laravel · SQL Server · El Salvador 🇸🇻
+### Backend Developer · Desktop Apps · Web Development · Databases · El Salvador 🇸🇻
 
 <br/>
 
