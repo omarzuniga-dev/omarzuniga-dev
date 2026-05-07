@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/omarzuniga-dev/omarzuniga-dev/main/banner_tech.jpg" width="100%" alt="Tech Banner"/>
 <div align="center">
 
-# Omar Zúñiga
+# Omar Zúniga
 ### Backend Developer · C# .NET · Laravel · SQL Server · El Salvador 🇸🇻
 
 <br/>
