@@ -91,7 +91,7 @@
 
 <div align="center">
 
-**If you find my projects useful, give them a star — it motivates me a lot!** 
+**Turning ideas into scalable solutions** 
 
 
 
