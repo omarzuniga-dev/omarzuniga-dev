@@ -8,8 +8,8 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/omarzuniga-dev?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=7C3AED)](https://github.com/omarzuniga-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-zuniga-5194023a2/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omargochez2005@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=omarzuniga-dev&label=Profile+Views&color=7C3AED&style=for-the-badge)](https://github.com/omarzuniga-dev)
 
 </div>
