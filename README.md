@@ -1,6 +1,6 @@
 <!-- BANNER - sube el archivo banner_tech.png al repositorio y esta línea lo mostrará -->
 <img src="https://raw.githubusercontent.com/omarzuniga-dev/omarzuniga-dev/main/banner_tech.png" width="100%" alt="Tech Banner"/>
-<div align="center">
+<div align="left">
 
 # Omar Zúniga
 ### Backend Developer · Desktop Apps · Web Development · Databases · El Salvador 🇸🇻
