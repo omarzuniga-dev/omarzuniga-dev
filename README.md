@@ -16,15 +16,13 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-- 🎓 Software Development student from **El Salvador 🇸🇻**
-- 🔧 Focused on **backend systems** and **desktop applications**
-- 💻 I work daily with **C# .NET** and **Laravel**
-- 🗄️ Database design with **SQL Server** & **MySQL**
-- 🌱 Currently learning **Clean Architecture** & **REST API Design**
-- 💬 Ask me about **.NET**, **Laravel** or **SQL Server**
-- ⚡ Fun fact: I debug better at night 🌙
+- Student · Software Development · El Salvador
+- Backend & Desktop · C# .NET · Laravel · PHP
+- Databases · SQL Server · MySQL · MongoDB
+- Learning · Clean Architecture · REST API Design
+- Open to · Remote opportunities & collaboration
 
 ---
 
