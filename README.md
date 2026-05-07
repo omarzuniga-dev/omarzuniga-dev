@@ -53,16 +53,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/omarzuniga-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarzuniga-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarzuniga-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
+[![GitHub followers](https://img.shields.io/github/followers/omarzuniga-dev?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=7C3AED)](https://github.com/omarzuniga-dev)
+[![GitHub stars](https://img.shields.io/github/stars/omarzuniga-dev?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=7C3AED)](https://github.com/omarzuniga-dev)
+[![Repos](https://img.shields.io/badge/Public%20Repos-1-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarzuniga-dev?tab=repositories)
 
 ## 🚀 Featured Project
 
