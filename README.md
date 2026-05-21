@@ -100,7 +100,7 @@
 - Enables SSH remote administration
 - Connects client machines to the domain environment
 - Simulates an enterprise network infrastructure
-- 
+  
 ##  Goals
 
 - Become a professional backend developer working on real-world systems
