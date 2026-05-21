@@ -82,6 +82,25 @@
 - Detects and prevents scheduling conflicts automatically
 - Organizes teachers, classrooms and subjects in one system
 
+### [Enterprise Network Configuration](https://github.com/omarzuniga-dev/enterprise-network-configuration)
+
+> Enterprise network infrastructure project using Windows Server and Linux in a virtualized environment.
+> Includes Active Directory, DNS, DHCP, SSH, Apache and MariaDB server configuration with client integration.
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-2016-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+**What it does:**
+- Configures Active Directory domain services
+- Implements DNS and DHCP network services
+- Deploys Linux server with Apache and MariaDB
+- Enables SSH remote administration
+- Connects client machines to the domain environment
+- Simulates an enterprise network infrastructure
+- 
 ##  Goals
 
 - Become a professional backend developer working on real-world systems
